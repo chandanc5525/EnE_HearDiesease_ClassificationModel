@@ -1,0 +1,10 @@
+artifact_location: file:///C:/EnE_HearDiesease_ClassificationModel/experiments/mlruns/868033297599761418/models/m-c373ce24775d4cd3b43b4952a0cd49c5/artifacts
+creation_timestamp: 1751113279695
+experiment_id: '868033297599761418'
+last_updated_timestamp: 1751113285080
+model_id: m-c373ce24775d4cd3b43b4952a0cd49c5
+model_type: null
+name: model
+source_run_id: 9a56fcaf1d91429a97cdb11662a39b13
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/EnE_HearDiesease_ClassificationModel/experiments/mlruns/868033297599761418/9a56fcaf1d91429a97cdb11662a39b13/artifacts
+end_time: 1751113285091
+entry_point_name: ''
+experiment_id: '868033297599761418'
+lifecycle_stage: active
+run_id: 9a56fcaf1d91429a97cdb11662a39b13
+run_name: indecisive-grub-551
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751113279529
+status: 3
+tags: []
+user_id: USER

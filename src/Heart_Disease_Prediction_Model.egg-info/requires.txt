@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+mlflow
+PyYAML
+joblib
+matplotlib
+tqdm
+seaborn

@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+pyyaml
+mlflow
+seaborn 
+matplotlib
+imblearn
+PyYAML
