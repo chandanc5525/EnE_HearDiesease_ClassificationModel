@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/EnE_HearDiesease_ClassificationModel/experiments/mlruns/127402953044727787/6faa5b60940843fe8bd4f71ac201c595/artifacts
+end_time: 1751119149277
+entry_point_name: ''
+experiment_id: '127402953044727787'
+lifecycle_stage: active
+run_id: 6faa5b60940843fe8bd4f71ac201c595
+run_name: melodic-snake-124
+run_uuid: 6faa5b60940843fe8bd4f71ac201c595
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751119145534
+status: 3
+tags: []
+user_id: CHANDAN

@@ -11,5 +11,5 @@ model_params:
     max_depth: 5
 
 mlflow_config:
-  experiment_name: "generic_ml_project"
+  experiment_name: "HeartPredictionModel"
   tracking_uri: "file:./experiments/mlruns"
